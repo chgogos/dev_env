@@ -15,8 +15,8 @@ urlcolor: blue
   - Αν ο υπολογιστής είναι **64-bit** τότε επιλέξτε κατά την εγκατάσταση ως **architecture** το **x86_64**, αλλιώς αν είναι **32-bit** επιλέξτε **i686**.
 - Προσθήκη της διαδρομής του καταλόγου **bin** του **Mingw-w64** (π.χ. του **c:\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin**) στη μεταβλητή περιβάλλοντος (environment variable) **PATH** των Windows. Για να δείτε πως γίνεται αυτό συμβουλευτείτε την αναφορά [1].
 - Εγκατάσταση του [Visual Studio Code](https://code.visualstudio.com/download).
-- Εγκατάσταση της επέκτασης [C++ extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools).
-- Εγκατάσταση της επέκτασης [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner).
+- Εγκατάσταση της επέκτασης του **Visual Studio Code** [C++ extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools).
+- Εγκατάσταση της επέκτασης του **Visual Studio Code** [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner).
   - Πιέστε **Ctrl+,** (πλήκτρο Control και πλήκτρο κόμμα) έτσι ώστε να εμφανιστεί η καρτέλα **Settings** (εναλλακτικά η καρτέλα **Settings** εμφανίζεται επιλέγοντας τα μενού **File > Preferences > Settings**). Στα **extensions** εντοπίστε το **Run Code Configuration** και επιλέξτε το **Run In Terminal** και το **Save All Files Before Run**.
 
 ## Δημιουργία ενός χώρου εργασίας (workspace)
