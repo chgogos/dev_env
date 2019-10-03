@@ -4,7 +4,7 @@ subtitle: VS Code και Mingw-w64
 author: Χρήστος Γκόγκος, Τμήμα Πληροφορικής και Τηλεπικοινωνιών, Πανεπιστήμιο Ιωαννίνων
 date: 30/9/2019
 urlcolor: blue
-...
+---
 
 Οι παρακάτω οδηγίες διαμορφώνουν το **Visual Studio Code** έτσι ώστε να χρησιμοποιεί τον **GCC compiler** για **C** και **C++** με σκοπό τη δημιουργία προγραμμάτων που μεταγλωττίζονται και εκτελούνται σε περιβάλλον **Windows**.
 
@@ -84,7 +84,7 @@ urlcolor: blue
   hello, world!
   ```
 
-# Αναφορές
+## Αναφορές
 
 1. [How to set the path and environment variables in Windows](https://www.computerhope.com/issues/ch000549.htm)
 2. [Using Mingw-w64 in VS Code](https://code.visualstudio.com/docs/cpp/config-mingw)
